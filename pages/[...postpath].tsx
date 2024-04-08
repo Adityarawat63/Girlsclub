@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://aaojanehindime.000webhostapp.com/` + encodeURI(path as string)
+					`https://separatelysmackfibber.com/uw9v32gh1y?key=3d95ea88e897c6065b56af465ef1808a/` 
 				}`,
 			},
 		};
